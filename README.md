@@ -68,7 +68,9 @@ All data is stored on the Stellar blockchain, ensuring:
 * Stellar Soroban Smart Contracts
 
 ---
+<img width="1908" height="862" alt="Screenshot 2026-03-27 133507" src="https://github.com/user-attachments/assets/e50eb398-29a8-4924-bf66-21175b59c0dd" />
 
 ## 📜 License
+
 
 MIT License
